@@ -1,0 +1,2 @@
+# ShiningSunBot
+新しいBotです。
